@@ -1,2 +1,5 @@
 logs/
 .DS_Store
+chrome.sh
+firefox.sh
+webkit.sh
